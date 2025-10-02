@@ -1,4 +1,4 @@
-Features: Slot Machine sort that I came up with whilst working on something fun. (might have already been done, not sure)
+Features: Slot Machine sort that I came up with whilst working on something fun (procrastinating).
 Completely pointless and for fun only.
 
 Takes in input as a list of size N
