@@ -1,4 +1,6 @@
-Features: Slot Machine sort that I came up with whilst working on something fun (procrastinating).
+Features: 
+Slot Machine sort that I came up with whilst working on something fun (procrastinating).
+Potentially worse than Bogosort(??)
 Completely pointless and for fun only.
 
 Takes in input as a list of size N
