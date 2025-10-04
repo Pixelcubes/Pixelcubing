@@ -3,6 +3,9 @@ Slot Machine sort that I came up with whilst working on something fun (procrasti
 Potentially worse than Bogosort(??)
 Completely pointless and for fun only.
 
+What I like to call the "patience cutoff" is around n = 6, 
+inputs greater than that tend to be too boring to wait for an output
+
 Takes in input as a list of size N
 
 Algorithm:
