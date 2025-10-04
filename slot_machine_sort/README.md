@@ -13,3 +13,4 @@ Algorithm:
 5) When generated list matches length of input list, check if bingo (sorted).
 6) If not sorted, discards the whole array entirely and starts from scratch.
 7) Continues until list is "sorted".
+8) Mutates inputList directly.
