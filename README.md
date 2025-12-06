@@ -13,4 +13,4 @@ The code is organized by topic in folders:
 ---
 
 **Notes:**
-Files currently are self-contained and can be run individually.
+Projects currently are self-contained and can be run individually.
